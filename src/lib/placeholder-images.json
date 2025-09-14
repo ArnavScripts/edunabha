@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar 1",
+      "imageUrl": "https://picsum.photos/seed/user1/200/200",
+      "imageHint": "profile portrait"
+    },
+    {
+      "id": "lesson-thumb-1",
+      "description": "Digital Literacy Lesson Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/lesson1/600/400",
+      "imageHint": "computer education"
+    },
+    {
+      "id": "lesson-thumb-2",
+      "description": "Math Quiz Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/lesson2/600/400",
+      "imageHint": "mathematics blackboard"
+    },
+    {
+      "id": "lesson-thumb-3",
+      "description": "English Reading Passage Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/lesson3/600/400",
+      "imageHint": "open book"
+    },
+    {
+      "id": "lesson-thumb-4",
+      "description": "Science Lesson Thumbnail",
+      "imageUrl": "https://picsum.photos/seed/lesson4/600/400",
+      "imageHint": "science experiment"
+    }
+  ]
+}
